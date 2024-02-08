@@ -1,7 +1,5 @@
 package ArraysProblem;
 
-import java.util.Arrays;
-
 public class problem9 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3};
